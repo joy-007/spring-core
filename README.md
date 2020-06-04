@@ -1,2 +1,2 @@
 # spring-core
-spring-core project
+spring-core project for git
